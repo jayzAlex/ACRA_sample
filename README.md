@@ -88,7 +88,8 @@ Find out more about ACRA at [website](https://github.com/ACRA/acra).
 		
 		
 permission required:
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+		<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 		
 
 
