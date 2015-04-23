@@ -15,7 +15,7 @@ Find out more about ACRA at [website](https://github.com/ACRA/acra).
 			ACRA.getErrorReporter().setReportSender(new LocalReportSender(this, logFile));
 		}
 		
-<b>custom report fileds</b>
+<b>customizing report fileds</b>
 
 		@ReportsCrashes(formKey = "", // will not be used
 			customReportContent = { ReportField.USER_CRASH_DATE,
